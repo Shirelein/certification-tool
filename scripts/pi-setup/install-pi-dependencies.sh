@@ -26,7 +26,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get upgrade -y
 
 # TODO Comment on what dependency is required for:
 packagelist=(
-    linux-modules-extra-raspi=5.15.0.1046.44
+    linux-modules-extra-raspi=5.15.0.1047.45
     pi-bluetooth=0.1.18ubuntu4
 )
 
